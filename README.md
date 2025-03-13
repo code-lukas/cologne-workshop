@@ -21,7 +21,6 @@ Password: `HappyToBeHere!`
 ### Docker
 - [Docker cheat sheet](https://docs.docker.com/get-started/docker_cheatsheet.pdf)
 
-### Streamlit
 
 ## Contact
 Lukas Heine - [Mail](mailto:lukas.heine@uk-essen.de), [LinkedIn](https://www.linkedin.com/in/lukas-heine/)
