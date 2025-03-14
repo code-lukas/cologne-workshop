@@ -5,4 +5,4 @@ services:
     ports:
       - "7077:7077"
     # volumes:
-    #   - "./data:./app/data:ro"
+    #   - "./data:/app/data:ro"
